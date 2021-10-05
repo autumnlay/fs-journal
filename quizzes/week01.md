@@ -4,11 +4,16 @@
 <!-- enter you answer in the space below -->
 ```
 
+"change directory", we use it to change with directory we are in.
+
+
 ```
 
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
 ```
+
+"Make directory", we use this to make new directory "folders"
 
 ```
 
@@ -16,18 +21,20 @@
 <!-- enter you answer in the space below -->
 ```
 
+You have to start all documents with this.
+
 ```
 
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+Hypertext Markup Language 
 ```
 
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+Cascading Style Sheets
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
