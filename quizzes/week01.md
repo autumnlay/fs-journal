@@ -38,35 +38,35 @@ Cascading Style Sheets
 ```
 <!-- enter you answer in the space below -->
 ```
-
+  The Selector, from HTML (h1.main-title), the Property (color) and the Value (rgba) 
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+  You would use the "font-weight:" property.
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+  The <body></body> tag
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+  For a litteral list, you can use <ul>, <li>, and <ol>
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+The flex property can help us "move" our elements on the page. It help to set the length and heighth on items. 
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+  There are a few you could use to affect the size of a box model. The main one is 'box-sizing:' and then this can affect the margin and padding on our box. 
 ```
