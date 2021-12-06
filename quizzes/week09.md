@@ -39,15 +39,15 @@ Definition of Done
 **8.** Give two examples of a user story:
 <!-- enter you answer in the space below -->
 ```
-
+You can use index cards for the whole team. You can also use a trello to describe what you want the user to do. 
 ```
 **9.** During which ceremony is your Sprint Backlog created?
 <!-- enter you answer in the space below -->
 ```
-
+In the Sprint Planning, or in the Sprint Backlog Grooming part
 ```
 **10.** In which of these ceremonies are Tasks assigned to you?
 <!-- enter you answer in the space below -->
 ```
-
+Sprint Review
 ```
